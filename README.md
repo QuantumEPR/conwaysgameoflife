@@ -1,6 +1,5 @@
 # Conway's Game of Life (JAVA Implementation)
 Contributor: Zhewen Zheng, Yuchen Shao(Winnie)
-Start Day: 7/2/2019
 
 ## Introduction
 (你从维基百科上写一段然后放一个维基百科的链接，这样正式一点)
