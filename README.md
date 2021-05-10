@@ -2,7 +2,6 @@
 Contributor: Zhewen Zheng, Yuchen Shao(Winnie)
 
 ## Introduction
-(你从维基百科上写一段然后放一个维基百科的链接，这样正式一点)
 
 ## Game Rules
 ### For a space is "populated"
